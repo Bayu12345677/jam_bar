@@ -1,2 +1,4 @@
-# jam_bar
-example membuat animasi jam menggunkan bash
+<h1 align="center">
+  sampil jam animasi
+</h1></div>
+
