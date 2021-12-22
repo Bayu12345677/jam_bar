@@ -6,7 +6,7 @@
       Team   : Helixs-crew
       github : https://github.com/Bayu12345677
 '
-
+    # beground color
     BG_BLUE="$(tput setab 4)"
     FG_BLACK="$(tput setaf 0)"
     FG_WHITE="$(tput setaf 7)"
@@ -30,7 +30,7 @@
 
     display_clock() {
       
-      
+      # fungsi $REPLY untuk menampilkan blasan string
       local row=$clock_row
       
       while read; do
@@ -43,6 +43,7 @@
 
     trap 'tput sgr0; tput cnorm; tput rmcup || clear; exit 0' SIGINT
 
+    # mengatur height width display
     tput smcup; tput civis
 
     terminal_size
@@ -52,7 +53,7 @@
     progress_row=$((clock_row + banner_rows + 1))
     progress_col=$(((terminal_cols - 60) / 2))
 
-
+   # untuk effect bayangan progress
     blank_screen=
     for ((i=0; i < (terminal_cols * terminal_rows); ++i)); do
       blank_screen="${blank_screen} "
@@ -72,6 +73,7 @@
       display_clock
       
       tput cup $progress_row $progress_col
+       # bayangan effect
       echo -n ${FG_BLACK}
       echo -n "###########################################################"
       tput cup $progress_row $progress_col
