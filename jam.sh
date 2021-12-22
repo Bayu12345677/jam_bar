@@ -59,7 +59,7 @@
       blank_screen="${blank_screen} "
     done
 
-    echo -n ${BG_BLUE}${FG_WHITE}
+    echo -n ${BG_BLUE}${FG_WHITE} # display background
     while true; do
 
       
