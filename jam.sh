@@ -2,7 +2,7 @@
 
     # tclock - Display a clock in a terminal
 : '
-      Author : polygon
+      Author : Bayu riski
       Team   : Helixs-crew
       github : https://github.com/Bayu12345677
 '
