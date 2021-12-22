@@ -43,7 +43,7 @@ cd jam_bar
 bash jam.sh
 ```
 
-> example cara membuat jam digital menggunkan bash dan tput
+> example cara membuat jam digital display menggunkan bash dan tput
 
 <p align="center">
   terimakasi telah berkunjung
