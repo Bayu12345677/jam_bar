@@ -12,7 +12,7 @@
 </a>
 <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
    <img src="https://img.shields.io/static/v1?style=flat&logo=google&label=Made&message=indonesia&color=red">
-</a>
+</a><br>
 <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
   <img src="https://img.shields.io/static/v1?style=flat&logo=youtube&label=youtube&message=pejuang%20kentang&color=black">
 </a>
