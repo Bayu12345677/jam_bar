@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/static/v1?style=flat&logo=haskell&label=Code&message=OPEN%20SOURCE&color=blue">
 </a>
 <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
-   <img src="https://img.shields.io/static/v1?style=flat&logo=apple&label=Author&message=Polygon&color=cyan">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=apple&label=Author&message=Bayu%20Riski&color=cyan">
 </a>
 <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
    <img src="https://img.shields.io/static/v1?style=flat&logo=google&label=Made&message=indonesia&color=red">
