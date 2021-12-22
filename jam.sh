@@ -1,6 +1,11 @@
-    #!/bin/bash
+#!../usr/bin/bash
 
     # tclock - Display a clock in a terminal
+: '
+      Author : polygon
+      Team   : Helixs-crew
+      github : https://github.com/Bayu12345677
+'
 
     BG_BLUE="$(tput setab 4)"
     FG_BLACK="$(tput setaf 0)"
