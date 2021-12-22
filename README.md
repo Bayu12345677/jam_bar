@@ -13,11 +13,36 @@
 <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
    <img src="https://img.shields.io/static/v1?style=flat&logo=google&label=Made&message=indonesia&color=red">
 </a>
+<a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
+  <img src="https://img.shields.io/static/v1?style=flat&logo=youtube&label=youtube&message=pejuang%20kentang&color=black">
+</a>
 <p align="right">
   <a href="https://github.com/Bayu12345677">
-    <img src="https://i.postimg.cc/xCYbNNmh/images-2.jpg" width="150">
+    <img src="https://github.com/Bayu12345677/jam_bar/blob/main/poto/images%20(2).png" width="150">
    </a></p>
 <a href="https://chat.whatsapp.com/CTvgCUQcIl78aHokMA8FSk">
    <code><img src="https://img.shields.io/static/v1?style=flat&logo=whatsapp&label=join&message=Grup%20Whatsapp&color=green"></code>
 </a>
 <code><img src="https://img.shields.io/static/v1?style=flat&logo=github&label=License&message=MIT&color=yellow"></code>
+<code><img src="https://img.shields.io/github/forks/Bayu12345677/jam_bar?logo=firefox&style=flat"></code>
+
+
+- ## how to install
+
+```haskell
+apt-get full-upgrade
+apt-get update
+apt-get install ncurses-utils
+apt-get install figlet
+apt-get install git
+```
+- `setup`
+```
+git clone https://github.com/Bayu12345677/jam_bar
+cd jam_bar
+bash jam.sh
+```
+
+<p align="center">
+  terimakasi telah berkunjung
+</p>
