@@ -85,3 +85,4 @@
         sleep 1
       done
     done
+# -n = tidak mencetak dengan line baru
