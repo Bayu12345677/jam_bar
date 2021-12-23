@@ -79,7 +79,7 @@
       tput cup $progress_row $progress_col
       echo -n ${FG_WHITE}
 
-      # logika : jadi setiap 60 detik akan menambahkan string pagar yg di atur oleh sleep
+      # logika : jadi setiap 60 detik akan menambahkan string pagar yg di atur oleh sleep sebagai waktu
       for ((i = $(date +%S);i < 60; ++i)); do
         echo -n "#"
         sleep 1
